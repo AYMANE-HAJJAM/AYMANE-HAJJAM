@@ -2,7 +2,7 @@
   <img height="156" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding Animation" />
 </div>
 
----
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aymane-hajjam-b28b36288/">
@@ -16,34 +16,31 @@
   </a>
 </div>
 
----
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AYMANE-HAJJAM.AYMANE-HAJJAM" alt="Profile Views" />
 </div>
 
----
 
-<div align="center">
+
+<div>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F6F7&width=435&lines=Hi+there!+I'm+Aymane+Hajjam;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
 
----
+
 
 ## 👨‍💻 About Me
-
-**Full-stack developer passionate about creating innovative web solutions.**
 
 I specialize in modern web technologies and love building scalable applications from concept to deployment.  
 Always eager to learn new technologies and collaborate on exciting projects! 💻✨
 
 ---
 
-## 🚀 Tech Stack
 
-### 💻 Front-End Development Technologies
+# FRONT-END DEVELOPMENT TECHNOLOGIES :
 
 **Languages & Core Technologies**
 
@@ -71,7 +68,7 @@ Always eager to learn new technologies and collaborate on exciting projects! �
 
 ---
 
-### 🖥️ Back-End Development Technologies
+# BACK-END DEVELOPMENT TECHNOLOGIES :
 
 **Programming Languages**
 
@@ -93,7 +90,8 @@ Always eager to learn new technologies and collaborate on exciting projects! �
 
 ---
 
-### ⚙️ DevOps, Deployment, Testing & More
+# DEVOPS & DEPLOYMENT & TESTING & DEBUGGING & CODE QUALITY & PERFORMANCE OPTIMIZATION :
+
 
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jest,vercel,netlify" alt="DevOps Tools" />
