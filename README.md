@@ -5,13 +5,13 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aymane-hajjam-b28b36288/" target="_blank">
+  <a href="https://www.linkedin.com/in/aymane-hajjam-b28b36288/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/+212660808740" target="_blank">
+  <a href="https://wa.me/+212660808740">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp" />
   </a>
-  <a href="https://discord.com/users/aymane_76384" target="_blank">
+  <a href="https://discord.com/users/aymane_76384">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
   </a>
 </div>
@@ -24,9 +24,9 @@
 
 ---
 
-<div align="center">
+<div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F6F7&width=435&lines=Hi+there!+I'm+Aymane+Hajjam;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F6F7&width=435&lines=Hi+there!+I'm+Aymane+Hajjam;Full-Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
@@ -40,52 +40,57 @@ I specialize in modern web technologies and love building scalable applications 
 
 ## 🚀 Tech Stack
 
-### Frontend Development
+# FRONT-END DEVELOPMENT TECHNOLOGIES :
 **Languages & Core Technologies**
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend Languages" />
 </div>
-
-**Frameworks & Libraries**
+<br><br>
+**`Front-End Frameworks & Libraries :`**
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=react,angular,nextjs" alt="Frontend Frameworks" />
 </div>
-
+<br><br>
 **Styling & UI**
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui" alt="Styling Frameworks" />
 </div>
+<br><br>
 
 **State Management**
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=redux" alt="State Management" />
 </div>
-
-### Backend Development
+<br><br>
+# BACK-END DEVELOPMENT TECHNOLOGIES :
 **Programming Languages**
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=js,ts,php,java" alt="Backend Languages" />
 </div>
-
-**Frameworks & Runtime**
+<br><br>
+**`Back-End Frameworks & Libraries :`**
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" alt="Backend Frameworks" />
 </div>
-
+<br><br>
 ### Database & Storage
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" alt="Databases" />
 </div>
-
-### DevOps & Tools
+<br><br>
+# DEVOPS & DEPLOYMENT & TESTING & DEBUGGING & CODE QUALITY & PERFORMANCE OPTIMIZATION :
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vercel,netlify" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jest,vercel,netlify" alt="DevOps Tools" />
 </div>
 
-**Testing & Quality**
-<div>
-  <img src="https://skillicons.dev/icons?i=jest" alt="Testing Tools" />
-</div>
+
 
 ---
 
