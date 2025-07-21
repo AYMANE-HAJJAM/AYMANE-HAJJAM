@@ -34,74 +34,74 @@
 
 ## 👨‍💻 About Me
 
-I'm **Aymane Hajjam**, a **Full-Stack Developer** passionate about creating modern and scalable web applications.  
-I enjoy solving problems, learning new technologies, and collaborating on innovative projects. 💻✨
+**Full-stack developer passionate about creating innovative web solutions.**
+
+I specialize in modern web technologies and love building scalable applications from concept to deployment.  
+Always eager to learn new technologies and collaborate on exciting projects! 💻✨
 
 ---
 
 ## 🚀 Tech Stack
 
-<details>
-  <summary><strong>💻 Front-End Development</strong></summary>
+### 💻 Front-End Development Technologies
 
-  **Languages & Core:**
+**Languages & Core Technologies**
 
-  <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS" />
-  </div><br>
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend Languages" />
+</div>
 
-  **Frameworks & Libraries:**
+**Front-End Frameworks & Libraries**
 
-  <div>
-    <img src="https://skillicons.dev/icons?i=react,angular,nextjs" alt="React, Angular, Next.js" />
-  </div><br>
+<div>
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs" alt="Frontend Frameworks" />
+</div>
 
-  **Styling:**
+**Styling & UI**
 
-  <div>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui" alt="Bootstrap, Tailwind, MUI" />
-  </div><br>
+<div>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui" alt="Styling Frameworks" />
+</div>
 
-  **State Management:**
+**State Management**
 
-  <div>
-    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
-  </div><br>
-</details>
-
-<details>
-  <summary><strong>🖥️ Back-End Development</strong></summary>
-
-  **Languages:**
-
-  <div>
-    <img src="https://skillicons.dev/icons?i=js,ts,php,java" alt="JavaScript, TypeScript, PHP, Java" />
-  </div><br>
-
-  **Frameworks & Libraries:**
-
-  <div>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" alt="Node.js, Express, Laravel, Spring Boot" />
-  </div><br>
-
-  **Database & Storage:**
-
-  <div>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" alt="MySQL, MongoDB, Firebase, Supabase" />
-  </div><br>
-</details>
-
-<details>
-  <summary><strong>⚙️ DevOps & Tools</strong></summary>
-
-  <div>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jest,vercel,netlify" alt="Git, Docker, Vercel, etc." />
-  </div><br>
-</details>
+<div>
+  <img src="https://skillicons.dev/icons?i=redux" alt="State Management" />
+</div>
 
 ---
 
-## 📈 GitHub Stats
+### 🖥️ Back-End Development Technologies
+
+**Programming Languages**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,java" alt="Backend Languages" />
+</div>
+
+**Back-End Frameworks & Libraries**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" alt="Backend Frameworks" />
+</div>
+
+**Database & Storage**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" alt="Databases" />
+</div>
+
+---
+
+### ⚙️ DevOps, Deployment, Testing & More
+
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jest,vercel,netlify" alt="DevOps Tools" />
+</div>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AYMANE-HAJJAM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180" />
@@ -112,15 +112,15 @@ I enjoy solving problems, learning new technologies, and collaborating on innova
 
 ## 🎯 Current Focus
 
-- 🔭 Building scalable full-stack apps  
-- 🌐 Exploring cloud & microservices  
-- 👥 Open to exciting collaborations  
-- 💬 Ask me about React, Node.js, Docker  
-- ☕ Fun fact: I turn caffeine into clean code
+- 🔭 Building scalable web applications  
+- 🌱 Exploring cloud technologies and microservices  
+- 👯 Open to collaborating on innovative projects  
+- 💬 Ask me about React, Node.js, or full-stack development  
+- ⚡ Fun fact: I love turning coffee into code!
 
 ---
 
-## 📊 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYMANE-HAJJAM&theme=react-dark&hide_border=true" alt="Activity Graph" />
@@ -129,5 +129,5 @@ I enjoy solving problems, learning new technologies, and collaborating on innova
 ---
 
 <div align="center">
-  <strong>✨ Thanks for stopping by! Let’s connect and create something amazing! 🚀</strong>
+  <strong>Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</strong>
 </div>
