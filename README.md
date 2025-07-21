@@ -5,22 +5,23 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aymane-hajjam-b28b36288/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/aymane-hajjam-b28b36288/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/+212660808740">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp" />
+  <a href="https://wa.me/+212660808740" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="https://discord.com/users/aymane_76384">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
+  <a href="https://discord.com/aymane_76384" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
 
-
+###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AYMANE-HAJJAM.AYMANE-HAJJAM" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AYMANE-HAJJAM.AYMANE-HAJJAM&"  />
 </div>
+
 
 <br><br>
 
@@ -49,12 +50,12 @@ Always eager to learn new technologies and collaborate on exciting projects! �
 
 **`Front-End Frameworks & Libraries :`**
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,remix,astro,threejs,angular,vue,nuxtjs,gatsby,solidjs,svelte&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular&perline=12)](https://skillicons.dev)
 <br><br>
 
 **`Styling & UI Frameworks :`**
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,materialui&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui&perline=12)](https://skillicons.dev)
 <br><br>
 
 **`State Management :`**
@@ -83,38 +84,12 @@ Always eager to learn new technologies and collaborate on exciting projects! �
 
 ---
 
-# DEVOPS / DEPLOYMENT / TESTING / PERFORMANCE :
-
-<br><br>
+# DEVOPS & DEPLOYMENT & TESTING & DEBUGGING & CODE QUALITY & PERFORMANCE OPTIMIZATION :
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,jest,vercel,netlify&perline=12)](https://skillicons.dev)
 <br><br>
 ## 📊 GitHub Statistics
-<br><br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AYMANE-HAJJAM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AYMANE-HAJJAM&theme=radical&layout=compact&hide_border=true&langs_count=6" height="180" />
 </div>
 
----
-
-## 🎯 Current Focus
-
-- 🔭 Building scalable web applications  
-- 🌱 Exploring cloud technologies and microservices  
-- 👯 Open to collaborating on innovative projects  
-- 💬 Ask me about React, Node.js, or full-stack development  
-- ⚡ Fun fact: I love turning coffee into code!
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYMANE-HAJJAM&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
-  <strong>Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</strong>
-</div>
