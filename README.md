@@ -22,7 +22,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AYMANE-HAJJAM.AYMANE-HAJJAM" alt="Profile Views" />
 </div>
 
-
+<br><br>
 
 <div>
   <a href="https://git.io/typing-svg">
@@ -43,64 +43,64 @@ Always eager to learn new technologies and collaborate on exciting projects! ðŸ’
 # FRONT-END DEVELOPMENT TECHNOLOGIES :
 
 **Languages & Core Technologies**
-
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend Languages" />
 </div>
-
+<br><br>
 **Front-End Frameworks & Libraries**
-
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=react,angular,nextjs" alt="Frontend Frameworks" />
 </div>
-
+<br><br>
 **Styling & UI**
-
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui" alt="Styling Frameworks" />
 </div>
-
+<br><br>
 **State Management**
-
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=redux" alt="State Management" />
 </div>
 
----
+<br><br>
 
 # BACK-END DEVELOPMENT TECHNOLOGIES :
 
 **Programming Languages**
-
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=js,ts,php,java" alt="Backend Languages" />
 </div>
-
+<br><br>
 **Back-End Frameworks & Libraries**
-
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" alt="Backend Frameworks" />
 </div>
-
+<br><br>
 **Database & Storage**
-
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" alt="Databases" />
 </div>
+<br><br>
 
----
 
 # DEVOPS & DEPLOYMENT & TESTING & DEBUGGING & CODE QUALITY & PERFORMANCE OPTIMIZATION :
 
-
+<br><br>
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jest,vercel,netlify" alt="DevOps Tools" />
 </div>
 
----
+<br><br>
 
 ## ðŸ“Š GitHub Statistics
-
+<br><br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AYMANE-HAJJAM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AYMANE-HAJJAM&theme=radical&layout=compact&hide_border=true&langs_count=6" height="180" />
