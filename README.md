@@ -42,63 +42,52 @@ Always eager to learn new technologies and collaborate on exciting projects! ðŸ’
 
 # FRONT-END DEVELOPMENT TECHNOLOGIES :
 
-**Languages & Core Technologies**
+**`Languages & Core Technologies :`**
 <br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend Languages" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&perline=12)](https://skillicons.dev)
 <br><br>
-**Front-End Frameworks & Libraries**
-<br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs" alt="Frontend Frameworks" />
-</div>
-<br><br>
-**Styling & UI**
-<br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui" alt="Styling Frameworks" />
-</div>
-<br><br>
-**State Management**
-<br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=redux" alt="State Management" />
-</div>
 
+**`Front-End Frameworks & Libraries :`**
 <br><br>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,remix,astro,threejs,angular,vue,nuxtjs,gatsby,solidjs,svelte&perline=12)](https://skillicons.dev)
+<br><br>
+
+**`Styling & UI Frameworks :`**
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,materialui&perline=12)](https://skillicons.dev)
+<br><br>
+
+**`State Management :`**
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=redux&perline=12)](https://skillicons.dev)
+<br><br>
+
+---
 
 # BACK-END DEVELOPMENT TECHNOLOGIES :
 
-**Programming Languages**
+**`Programming Languages :`**
 <br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,java" alt="Backend Languages" />
-</div>
-<br><br>
-**Back-End Frameworks & Libraries**
-<br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" alt="Backend Frameworks" />
-</div>
-<br><br>
-**Database & Storage**
-<br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" alt="Databases" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,java&perline=12)](https://skillicons.dev)
 <br><br>
 
-
-# DEVOPS & DEPLOYMENT & TESTING & DEBUGGING & CODE QUALITY & PERFORMANCE OPTIMIZATION :
-
+**`Back-End Frameworks & Libraries :`**
 <br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jest,vercel,netlify" alt="DevOps Tools" />
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,laravel,spring&perline=12)](https://skillicons.dev)
 <br><br>
 
+**`Database & Storage :`**
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase&perline=12)](https://skillicons.dev)
+<br><br>
+
+---
+
+# DEVOPS / DEPLOYMENT / TESTING / PERFORMANCE :
+
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,jest,vercel,netlify&perline=12)](https://skillicons.dev)
+<br><br>
 ## ðŸ“Š GitHub Statistics
 <br><br>
 <div align="center">
