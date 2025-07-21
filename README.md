@@ -24,100 +24,103 @@
 
 ---
 
-<div>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F6F7&width=435&lines=Hi+there!+I'm+Aymane+Hajjam;Full-Stack+Developer;Problem+Solver)](https://git.io/typing-svg)
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F6F7&width=435&lines=Hi+there!+I'm+Aymane+Hajjam;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  </a>
 </div>
 
-## About Me
+---
 
-**Full-stack developer passionate about creating innovative web solutions.**
+## 👨‍💻 About Me
 
-I specialize in modern web technologies and love building scalable applications from concept to deployment. Always eager to learn new technologies and collaborate on exciting projects! 💻✨
+I'm **Aymane Hajjam**, a **Full-Stack Developer** passionate about creating modern and scalable web applications.  
+I enjoy solving problems, learning new technologies, and collaborating on innovative projects. 💻✨
 
 ---
 
 ## 🚀 Tech Stack
 
-# FRONT-END DEVELOPMENT TECHNOLOGIES :
-**Languages & Core Technologies**
-<br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend Languages" />
-</div>
-<br><br>
-**`Front-End Frameworks & Libraries :`**
-<br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs" alt="Frontend Frameworks" />
-</div>
-<br><br>
-**Styling & UI**
-<br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui" alt="Styling Frameworks" />
-</div>
-<br><br>
+<details>
+  <summary><strong>💻 Front-End Development</strong></summary>
 
-**State Management**
-<br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=redux" alt="State Management" />
-</div>
-<br><br>
-# BACK-END DEVELOPMENT TECHNOLOGIES :
-**Programming Languages**
-<br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,java" alt="Backend Languages" />
-</div>
-<br><br>
-**`Back-End Frameworks & Libraries :`**
-<br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" alt="Backend Frameworks" />
-</div>
-<br><br>
-### Database & Storage
-<br><br>
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" alt="Databases" />
-</div>
-<br><br>
-# DEVOPS & DEPLOYMENT & TESTING & DEBUGGING & CODE QUALITY & PERFORMANCE OPTIMIZATION :
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jest,vercel,netlify" alt="DevOps Tools" />
-</div>
+  **Languages & Core:**
 
+  <div>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS" />
+  </div><br>
 
+  **Frameworks & Libraries:**
+
+  <div>
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs" alt="React, Angular, Next.js" />
+  </div><br>
+
+  **Styling:**
+
+  <div>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui" alt="Bootstrap, Tailwind, MUI" />
+  </div><br>
+
+  **State Management:**
+
+  <div>
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+  </div><br>
+</details>
+
+<details>
+  <summary><strong>🖥️ Back-End Development</strong></summary>
+
+  **Languages:**
+
+  <div>
+    <img src="https://skillicons.dev/icons?i=js,ts,php,java" alt="JavaScript, TypeScript, PHP, Java" />
+  </div><br>
+
+  **Frameworks & Libraries:**
+
+  <div>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" alt="Node.js, Express, Laravel, Spring Boot" />
+  </div><br>
+
+  **Database & Storage:**
+
+  <div>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" alt="MySQL, MongoDB, Firebase, Supabase" />
+  </div><br>
+</details>
+
+<details>
+  <summary><strong>⚙️ DevOps & Tools</strong></summary>
+
+  <div>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jest,vercel,netlify" alt="Git, Docker, Vercel, etc." />
+  </div><br>
+</details>
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYMANE-HAJJAM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AYMANE-HAJJAM&theme=radical&layout=compact&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYMANE-HAJJAM&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AYMANE-HAJJAM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AYMANE-HAJJAM&theme=radical&layout=compact&hide_border=true&langs_count=6" height="180" />
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔭 Building scalable web applications
-- 🌱 Exploring cloud technologies and microservices
-- 👯 Open to collaborating on innovative projects
-- 💬 Ask me about React, Node.js, or full-stack development
-- ⚡ Fun fact: I love turning coffee into code!
+- 🔭 Building scalable full-stack apps  
+- 🌐 Exploring cloud & microservices  
+- 👥 Open to exciting collaborations  
+- 💬 Ask me about React, Node.js, Docker  
+- ☕ Fun fact: I turn caffeine into clean code
 
 ---
 
-## 📈 Activity Graph
+## 📊 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYMANE-HAJJAM&theme=react-dark&hide_border=true" alt="Activity Graph" />
@@ -126,7 +129,5 @@ I specialize in modern web technologies and love building scalable applications 
 ---
 
 <div align="center">
-  
-**Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
-
+  <strong>✨ Thanks for stopping by! Let’s connect and create something amazing! 🚀</strong>
 </div>
