@@ -25,8 +25,8 @@
 ###
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F6F7&width=1000&lines=Aymane+Mehdi)](https://git.io/typing-svg)<br>
-**`Full-Stack Developer & SaaS and Startup Builder Powered By AI & Turning Ideas into Scalable Products.`** 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F6F7&width=1000&lines=Aymane+Hajjam)](https://git.io/typing-svg)<br>
+**`Full-stack developer passionate about creating innovative web solutions. I specialize in modern web technologies and love building scalable applications from concept to deployment. Always eager to learn new technologies and collaborate on new projects! 💻✨.`** 
 <br><br>
 
 # FRONT-END DEVELOPMENT TECHNOLOGIES :
@@ -36,11 +36,11 @@
 <br><br>
 **`Front-End Frameworks & Libraries :`**
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,remix,astro,threejs,angular,vue,nuxtjs,gatsby,solidjs,svelte,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,nextjs,&perline=12)](https://skillicons.dev)
 <br><br>
 **`Styling & UI Frameworks :`**
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,materialui,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,&perline=12)](https://skillicons.dev)
 <br><br>
 **`State Management :`**
 <br><br>
@@ -50,32 +50,33 @@
 # BACK-END DEVELOPMENT TECHNOLOGIES :
 **`Programming Languages :`**
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,&perline=12)](https://skillicons.dev)
 <br><br>
 **`Back-End Frameworks & Libraries :`**
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,bun,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,laravel,springboot,&perline=12)](https://skillicons.dev)
 <br><br>
 **`Databases (SQL-NoSQL-ORMs) :`**
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,prisma,,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb,supabase,&perline=12)](https://skillicons.dev)
 <br><br>
 
-# PACKAGE MANAGEMENT : 
-[![My Skills](https://skillicons.dev/icons?i=npm,yarn,pnpm,&perline=12)](https://skillicons.dev)
-<br><br>
+
 
 # DEVOPS & DEPLOYMENT & TESTING & DEBUGGING & CODE QUALITY & PERFORMANCE OPTIMIZATION :
-[![My Skills](https://skillicons.dev/icons?i=git,github,jest,docker,vercel,netlify,,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,jest,docker,vercel,netlify,,&perline=12)](https://skillicons.dev)
 <br><br>
 
 
 
 [![My Skills](https://skillicons.dev/icons?i=,&perline=12)](https://skillicons.dev)
 <br><br>
+
+# GitHub Stats :
+
 ###
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=AYMANE-HAJJAM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AYMANE-HAJJAM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
