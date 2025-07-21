@@ -2,28 +2,27 @@
   <img height="156" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding Animation" />
 </div>
 
-
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aymane-hajjam-b28b36288/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://wa.me/+212660808740" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
   <a href="https://discord.com/aymane_76384" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AYMANE-HAJJAM.AYMANE-HAJJAM&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AYMANE-HAJJAM.AYMANE-HAJJAM" />
 </div>
 
-
-<br><br>
+<br>
 
 <div>
   <a href="https://git.io/typing-svg">
@@ -31,7 +30,7 @@
   </a>
 </div>
 
-
+---
 
 ## üë®‚Äçüíª About Me
 
@@ -40,8 +39,7 @@ Always eager to learn new technologies and collaborate on exciting projects! üí
 
 ---
 
-
-# FRONT-END DEVELOPMENT TECHNOLOGIES :
+# FRONT-END DEVELOPMENT TECHNOLOGIES
 
 **`Languages & Core Technologies :`**
 <br><br>
@@ -65,7 +63,7 @@ Always eager to learn new technologies and collaborate on exciting projects! üí
 
 ---
 
-# BACK-END DEVELOPMENT TECHNOLOGIES :
+# BACK-END DEVELOPMENT TECHNOLOGIES
 
 **`Programming Languages :`**
 <br><br>
@@ -84,12 +82,15 @@ Always eager to learn new technologies and collaborate on exciting projects! üí
 
 ---
 
-# DEVOPS & DEPLOYMENT & TESTING & DEBUGGING & CODE QUALITY & PERFORMANCE OPTIMIZATION :
+# DEVOPS & DEPLOYMENT & TESTING & DEBUGGING & CODE QUALITY & PERFORMANCE OPTIMIZATION
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,jest,vercel,netlify&perline=12)](https://skillicons.dev)
-<br><br>
+
+---
+
 ## üìä GitHub Statistics
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AYMANE-HAJJAM&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AYMANE-HAJJAM&theme=radical&layout=compact&hide_border=true&langs_count=6" height="180" />
 </div>
-
