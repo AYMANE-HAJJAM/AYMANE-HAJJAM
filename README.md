@@ -4,126 +4,55 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/aymane-hajjam-b28b36288/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/+212660808740" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="https://discord.com/aymane_76384" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
 
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F6F7&width=1000&lines=Aymane+Mehdi)](https://git.io/typing-svg)<br>
+**`Full-Stack Developer & SaaS and Startup Builder Powered By AI & Turning Ideas into Scalable Products.`** 
+<br><br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AYMANE-HAJJAM.AYMANE-HAJJAM&"  />
-</div>
+# FRONT-END DEVELOPMENT TECHNOLOGIES :
+**`Languages & Core Technologies :`**
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,&perline=12)](https://skillicons.dev)
+<br><br>
+**`Front-End Frameworks & Libraries :`**
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,remix,astro,threejs,angular,vue,nuxtjs,gatsby,solidjs,svelte,&perline=12)](https://skillicons.dev)
+<br><br>
+**`Styling & UI Frameworks :`**
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,materialui,&perline=12)](https://skillicons.dev)
+<br><br>
+**`State Management :`**
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=redux,&perline=12)](https://skillicons.dev)
+<br><br>
 
-###
+# BACK-END DEVELOPMENT TECHNOLOGIES :
+**`Programming Languages :`**
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,&perline=12)](https://skillicons.dev)
+<br><br>
+**`Back-End Frameworks & Libraries :`**
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,bun,&perline=12)](https://skillicons.dev)
+<br><br>
+**`Databases (SQL-NoSQL-ORMs) :`**
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,prisma,,&perline=12)](https://skillicons.dev)
+<br><br>
 
-<h1 align="center">hey there 👋</h1>
+# PACKAGE MANAGEMENT : 
+[![My Skills](https://skillicons.dev/icons?i=npm,yarn,pnpm,&perline=12)](https://skillicons.dev)
+<br><br>
 
-###
+# DEVOPS & DEPLOYMENT & TESTING & DEBUGGING & CODE QUALITY & PERFORMANCE OPTIMIZATION :
+[![My Skills](https://skillicons.dev/icons?i=git,github,jest,docker,vercel,netlify,,&perline=12)](https://skillicons.dev)
+<br><br>
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
 
-<p align="left">Full-stack developer passionate about creating innovative web solutions. I specialize in modern web technologies and love building scalable applications from concept to deployment. Always eager to learn new technologies and collaborate on new projects! 💻✨</p>
-
-###
-
-<h2 align="left">🚀 Tech Stack</h2>
-
-###
-
-<h6 align="left">Programming Languages :</h6>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h6 align="left">Frontend Development :</h6>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h6 align="left">Backend Development :</h6>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-</div>
-
-###
-
-<h6 align="left">Database & Cloud :</h6>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h6 align="left">DEVOPS & DEPLOYMENT & TESTING & DEBUGGING & CODE QUALITY & PERFORMANCE OPTIMIZATION :</h6>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=,&perline=12)](https://skillicons.dev)
+<br><br>
 ###
 
 <div align="center">
