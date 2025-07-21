@@ -4,6 +4,26 @@
 
 ###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/aymane-hajjam-b28b36288/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/+212660808740" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://discord.com/aymane_76384" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AYMANE-HAJJAM.AYMANE-HAJJAM&"  />
+</div>
+
+###
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F6F7&width=1000&lines=Aymane+Mehdi)](https://git.io/typing-svg)<br>
 **`Full-Stack Developer & SaaS and Startup Builder Powered By AI & Turning Ideas into Scalable Products.`** 
